@@ -21,3 +21,4 @@ This is quite a handful for each developer to setup and manage on her workstatio
 Bonus, here are some services that we think are interesting, is there a good place to fit them in?
 Consul (https://www.consul.io/), Vault (https://www.vaultproject.io/)
 
+You can use the 3 NodeJS projects included in this project.
