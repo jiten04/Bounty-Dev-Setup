@@ -1,0 +1,24 @@
+{
+  "name": "bounty_dev_setup",
+  "version": "1.0.0",
+  "description": "Setup a developer machine with all bells and whistles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtooTrills/Bounty-Dev-Setup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtooTrills/Bounty-Dev-Setup/issues"
+  },
+  "homepage": "https://github.com/ArtooTrills/Bounty-Dev-Setup#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
+    "request": "^2.83.0"
+  }
+}

@@ -22,3 +22,10 @@ Bonus, here are some services that we think are interesting, is there a good pla
 Consul (https://www.consul.io/), Vault (https://www.vaultproject.io/)
 
 You can use the 3 NodeJS projects included in this project.
+
+### Here is how to start the 3 servers -
+
+ * clone the repository.
+ * `npm install`
+ * The 3 servers are inside separate folders node_app_* , run `node server.js` for the server you want to fire up.
+
